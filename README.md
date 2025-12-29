@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/danh22826/leetCode/tree/master/0001-two-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/danh22826/leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/danh22826/leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/danh22826/leetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
