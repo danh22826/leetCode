@@ -1,19 +1,15 @@
 class Solution {
 public:
     int repeatedNTimes(vector<int>& nums) {
-        map<int,int> mp;
-        for(auto& x : nums)
-        {
+        unordered_map<int,int> mp;
+        for (int x : nums) {
             mp[x]++;
         }
-        int uniqueE = mp.size() - 1;
-        int lengthA = nums.size() / 2;
-        for(const auto& x : mp)
-        {
-            if(x.second == lengthA && x.second == uniqueE )
-            {
-                return x.first;
-            }
+
+        int n = nums.size() / 2;
+        for (auto& [val, cnt] : mp) {
+            if (cnt == n)
+                return val;
         }
         return -1;
     }
