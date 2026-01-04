@@ -1,34 +1,25 @@
 class Solution {
 public:
     int sumFourDivisors(vector<int>& nums) {
-        vector<vector<int>> ds(nums.size());
-        for(int i = 0; i < nums.size(); i++)
-        {
-            int x = nums[i];
-            for(int j = 1; j * j <= nums[i]; j++)
+       int ans = 0;
+       for(int& x : nums)
+       {
+            int count = 0, sum = 0;
+            for(int i = 1 ; i * i <= x ; i++)
             {
-                if(x % j ==0)
+                if(x % i == 0)
                 {
-                    ds[i].push_back(j);
-                    if(j !=  x / j)
+                    count ++;
+                    sum += i;
+                    if(i != x / i)
                     {
-                        ds[i].push_back(x/j);
+                        count ++;
+                        sum += x / i;
                     }
                 }
             }
+            ans += (count == 4) ? sum : 0;      
         }
-        int tong = 0;
-        for(int i = 0 ;i < nums.size(); i++)
-        {
-            if(ds[i].size() == 4)
-            {
-                for(int j = 0 ; j < ds[i].size(); j++)
-                {
-                    tong += ds[i][j];
-                }
-            }
-        }
-        return tong;
-        
+        return ans;
     }
 };
