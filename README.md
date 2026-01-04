@@ -15,6 +15,7 @@
 | [0001-two-sum](https://github.com/danh22826/leetCode/tree/master/0001-two-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/danh22826/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/danh22826/leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/danh22826/leetCode/tree/master/1390-four-divisors) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/danh22826/leetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Math
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/danh22826/leetCode/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
