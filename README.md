@@ -16,6 +16,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/danh22826/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/danh22826/leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/danh22826/leetCode/tree/master/1390-four-divisors) |
+| [1975-maximum-matrix-sum](https://github.com/danh22826/leetCode/tree/master/1975-maximum-matrix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/danh22826/leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/danh22826/leetCode/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/danh22826/leetCode/tree/master/1390-four-divisors) |
+## Greedy
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/danh22826/leetCode/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
