@@ -1,24 +1,28 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 class Solution {
 public:
     long long maxMatrixSum(vector<vector<int>>& matrix) {
-        long long totalSum = 0;      
-        int minAbsVal = INT_MAX;     
-        int negativeCount = 0;       
-        for (const auto& row : matrix) {
-            for (int val : row) {
-                totalSum += llabs((long long)val);
-                if (val < 0) negativeCount++;
-                minAbsVal = min(minAbsVal, (int)llabs((long long)val));
+        long long  sum = 0;
+        int minVal = INT_MAX;   
+        int countNegative = 0;
+        for(const auto& row : matrix)
+        {
+            for(int x : row)
+            {
+                sum +=(long long)llabs(x);
+                if(x < 0)
+                {
+                    countNegative++;
+                }
+                minVal = min(minVal,abs(x));
+
             }
         }
-
-        if (negativeCount % 2 != 0) {
-            totalSum -= 2LL * minAbsVal;
+        if(countNegative % 2 != 0)
+        {
+            sum -= 2LL * minVal;
         }
-
-        return totalSum;
+        return sum;
     }
 };
