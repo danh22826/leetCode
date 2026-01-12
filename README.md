@@ -17,6 +17,7 @@
 | [0001-two-sum](https://github.com/danh22826/leetCode/tree/master/0001-two-sum) |
 | [0085-maximal-rectangle](https://github.com/danh22826/leetCode/tree/master/0085-maximal-rectangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/danh22826/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/danh22826/leetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/danh22826/leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/danh22826/leetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/danh22826/leetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -47,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/danh22826/leetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/danh22826/leetCode/tree/master/1390-four-divisors) |
 ## Greedy
 |  |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/danh22826/leetCode/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/danh22826/leetCode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
