@@ -22,10 +22,12 @@
 | [1390-four-divisors](https://github.com/danh22826/leetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/danh22826/leetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/danh22826/leetCode/tree/master/1975-maximum-matrix-sum) |
+| [3453-separate-squares-i](https://github.com/danh22826/leetCode/tree/master/3453-separate-squares-i) |
 ## Binary Search
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/danh22826/leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3453-separate-squares-i](https://github.com/danh22826/leetCode/tree/master/3453-separate-squares-i) |
 ## Matrix
 |  |
 | ------- |
