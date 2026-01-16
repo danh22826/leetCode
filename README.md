@@ -54,6 +54,7 @@
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/danh22826/leetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/danh22826/leetCode/tree/master/1390-four-divisors) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/danh22826/leetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## Greedy
 |  |
 | ------- |
