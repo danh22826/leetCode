@@ -23,6 +23,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/danh22826/leetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/danh22826/leetCode/tree/master/1975-maximum-matrix-sum) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/danh22826/leetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/danh22826/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/danh22826/leetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/danh22826/leetCode/tree/master/3454-separate-squares-ii) |
 ## Binary Search
@@ -59,6 +60,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/danh22826/leetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/danh22826/leetCode/tree/master/1390-four-divisors) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/danh22826/leetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/danh22826/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/danh22826/leetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/danh22826/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Segment Tree
 |  |
 | ------- |
