@@ -28,6 +28,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/danh22826/leetCode/tree/master/0069-sqrtx) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/danh22826/leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3453-separate-squares-i](https://github.com/danh22826/leetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/danh22826/leetCode/tree/master/3454-separate-squares-ii) |
@@ -54,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/danh22826/leetCode/tree/master/0069-sqrtx) |
 | [1266-minimum-time-visiting-all-points](https://github.com/danh22826/leetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/danh22826/leetCode/tree/master/1390-four-divisors) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/danh22826/leetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
