@@ -21,6 +21,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/danh22826/leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/danh22826/leetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/danh22826/leetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1895-largest-magic-square](https://github.com/danh22826/leetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/danh22826/leetCode/tree/master/1975-maximum-matrix-sum) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/danh22826/leetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/danh22826/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/danh22826/leetCode/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/danh22826/leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/danh22826/leetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/danh22826/leetCode/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
 |  |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/danh22826/leetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/danh22826/leetCode/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
