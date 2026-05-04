@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/danh22826/leetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/danh22826/leetCode/tree/master/0101-symmetric-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/danh22826/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/danh22826/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/danh22826/leetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/danh22826/leetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/danh22826/leetCode/tree/master/0101-symmetric-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/danh22826/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/danh22826/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/danh22826/leetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -89,12 +91,14 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/danh22826/leetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/danh22826/leetCode/tree/master/0101-symmetric-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/danh22826/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/danh22826/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/danh22826/leetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/danh22826/leetCode/tree/master/0101-symmetric-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/danh22826/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/danh22826/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/danh22826/leetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
